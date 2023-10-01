@@ -30,3 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
                           
 <a href="https://www.linkedin.com/in/Solomon-Elias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<a href="https://apps.apple.com/us/app/sippy-the-mocktail-mixologist/id6446917783?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/a5/0a/7fa50aca-be7c-5ee2-d332-6b14f2d03059/AppIcon-0-1x_U007ephone-0-10-0-85-220.png/540x540bb.jpg" alt="Sippy, The Mocktail Mixologist" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
+<a href="https://apps.apple.com/us/app/sippy-the-mocktail-mixologist/id6446917783?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1689638400" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
