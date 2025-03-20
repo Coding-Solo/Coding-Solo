@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </picture>
 
 *   🌍  I'm based in Florida
-*   🚀  I'm currently working on [Sippy](http://apps.apple.com/us/app/sippy-the-mocktail-mixologist/id6446917783)
+*   🚀  I'm currently working on [Sippy](http://apps.apple.com/us/app/sippy-the-mocktail-mixologist/id6446917783) & [Godot-MCP](https://github.com/Coding-Solo/godot-mcp)
 *   🧠  I'm learning Godot Development
   ### Skills 
 <p align="left">
